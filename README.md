@@ -9,9 +9,9 @@ and we give weights for every output of mini models
 and based on these we calculate the final score 
 
 what mini models we are using :
-Timely Payments Model :- Payments made on time will contribute to a healthy score.
-Savings Behavior Model:- more savings next month more credibility.
-Job promotion Model:- If User can be promoted then he get more credibility. 
-Social Media Sentiment Model:- if user is cyber Bullying he is about to face legal issues so his credibility is reduced.
-Charitable Donations Model:- if he is donating then he is credible enough.
+Timely Payments Model :- Payments made on time will contribute to a healthy score.<br/><br/>
+Savings Behavior Model:- more savings next month more credibility.<br/><br/>
+Job promotion Model:- If User can be promoted then he get more credibility. <br/><br/>
+Social Media Sentiment Model:- if user is cyber Bullying he is about to face legal issues so his credibility is reduced.<br/><br/>
+Charitable Donations Model:- if he is donating then he is credible enough.<br/><br/>
 
